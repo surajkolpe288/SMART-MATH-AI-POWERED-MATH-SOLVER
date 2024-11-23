@@ -103,7 +103,6 @@ To use this project, follow these steps:
 
    - **Real-Time Interaction:** The Streamlit application provides real-time feedback and updates, ensuring that users can see their drawings and results immediately. This dynamic interface enhances the overall user experience, making it intuitive and efficient to use the AI-powered calculator.
 
-🎬 Project Demo Video: [https://youtu.be/HXFBbLOpn6I](https://youtu.be/HXFBbLOpn6I)
 
 
 #### References:
@@ -116,23 +115,5 @@ To use this project, follow these steps:
 
 <br />
 
-**Contributing**
 
-Contributions to this project are welcome! If you encounter any issues or have suggestions for improvements, please feel free to submit a pull request.
-
-<br />
-
-**License**
-
-This project is licensed under the MIT License. Please review the LICENSE file for more details.
-
-<br />
-
-**Contact**
-
-📧 Email: gopiashokankiot@gmail.com 
-
-🌐 LinkedIn: [linkedin.com/in/gopiashokan](https://www.linkedin.com/in/gopiashokan)
-
-For any further questions or inquiries, feel free to reach out. We are happy to assist you with any queries.
 
